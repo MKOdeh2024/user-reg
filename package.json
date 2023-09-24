@@ -8,7 +8,7 @@
         "run-watch": "nodemon ./dist/app.js",
         "dev": "concurrently \"npm:build-tsc\"  \"npm:run-watch\""
     },
-    "repository": { "url": "https://github.com/MKOdeh2024/user-registration.git" },
+    "repository": { "url": "https://github.com/MKOdeh2024/user-reg.git" },
     "author": "Muhammad Odeh",
     "license": "ISC",
     "dependencies": {
